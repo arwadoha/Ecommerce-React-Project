@@ -37,6 +37,11 @@ We welcome contributions! If you find any issues or have improvements to suggest
 
 [Jewelery](https://github.com/arwadoha/Ecommerce-React-Project/assets/135133177/269897bb-1559-4e37-a566-89b50a606aae)
 
+[My account](https://github.com/arwadoha/Ecommerce-React-Project/assets/135133177/5e755a09-3990-4bb5-9332-effff0dc42a5)
+
+[My Orders](https://github.com/arwadoha/Ecommerce-React-Project/assets/135133177/bb531f15-9929-4fa5-abbc-9abf53698313)
+
+
 
 
 
